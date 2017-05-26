@@ -1,0 +1,9 @@
+appdirs==1.4.3
+coinbase==2.0.6
+packaging==16.8
+pycrypto==2.6.1
+pyparsing==2.2.0
+pytz==2017.2
+requests==2.14.2
+six==1.10.0
+tzlocal==1.4
